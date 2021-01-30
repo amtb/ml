@@ -1,2 +1,2 @@
 # ml
-Andrew Ng's popular coursear machine learning
+Andrew Ng's popular coursera machine learning
